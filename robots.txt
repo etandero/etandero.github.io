@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etandero.github.io/sitemap.html.gz
+Sitemap: https://etandero.github.io/app/sitemap.html.gz
+Sitemap: https://etandero.github.io/assets/sitemap.html.gz
+Sitemap: https://etandero.github.io/css/sitemap.html.gz
+Sitemap: https://etandero.github.io/data/sitemap.html.gz
+Sitemap: https://etandero.github.io/includes/sitemap.html.gz
+Sitemap: https://etandero.github.io/item/sitemap.html.gz
+Sitemap: https://etandero.github.io/src/sitemap.html.gz
